@@ -116,4 +116,4 @@ attendanceapp-backend/
 3. Make your changes
 4. Commit your changes (`git commit -m 'Add some amazing feature'`)
 5. Push to the branch (`git push origin feature/amazing-feature`)
-6. Open a Pull Request
+6. Open a Pull RequestLast updated: Tue Jan 20 11:52:46 AM IST 2026
